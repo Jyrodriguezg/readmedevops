@@ -21,7 +21,7 @@
 4. **Entrega continua (CD)**: desplegar el software automáticamente.
 5. **Monitoreo y operación**: asegurar que todo funcione correctamente.
 
-![Diagrama DevOps](https://d1.awsstatic.com/product-marketing/DevOps/DevOps-diagram.e3bfa3dfb08a8cd89b1c49c6d8b6c2f8d0425fa7.png)
+![Diagrama DevOps](images/DevOps.png)
 
 ---
 
