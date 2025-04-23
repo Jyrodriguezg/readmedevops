@@ -21,7 +21,7 @@
 4. **Entrega continua (CD)**: desplegar el software automáticamente.
 5. **Monitoreo y operación**: asegurar que todo funcione correctamente.
 
-![Diagrama DevOps](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*wZGRJJeM2h8VfT8YPfUmtA.png)
+![Diagrama DevOps](https://d1.awsstatic.com/product-marketing/DevOps/DevOps-diagram.e3bfa3dfb08a8cd89b1c49c6d8b6c2f8d0425fa7.png)
 
 ---
 
@@ -42,7 +42,7 @@
 3. **Monitoreo de vulnerabilidades**
 4. **Respuesta ante incidentes**
 
-![Diagrama DevSecOps](https://cdn.buttercms.com/GtqewgT0SR2f0fLwBz9L)
+![Diagrama DevSecOps](https://www.redhat.com/cms/managed-files/2021_DevSecOps_Infographic_1.svg)
 
 ---
 
@@ -60,27 +60,7 @@
 
 ## 📷 Imágenes sugeridas (puedes reemplazar por propias)
 
-- ![placeholder DevOps](https://via.placeholder.com/600x300?text=Diagrama+DevOps)
-- ![placeholder DevSecOps](https://via.placeholder.com/600x300?text=Diagrama+DevSecOps)
-- ![placeholder Seguridad](https://via.placeholder.com/600x300?text=Seguridad+Integrada)
+- ![Diagrama DevOps](https://d1.awsstatic.com/product-marketing/DevOps/DevOps-diagram.e3bfa3dfb08a8cd89b1c49c6d8b6c2f8d0425fa7.png)
+- ![Diagrama DevSecOps](https://www.redhat.com/cms/managed-files/2021_DevSecOps_Infographic_1.svg)
 
 ---
-
-## 🧠 Resumen final
-
-- Si necesitas velocidad, DevOps es clave.
-- Si necesitas velocidad **y seguridad**, DevSecOps es tu camino.
-- Implementar cualquiera de los dos requiere **cambio cultural**, no solo herramientas.
-
----
-
-## 💡 Consejos finales
-
-✔ Empieza entendiendo el ciclo de vida del software.  
-✔ No temas automatizar tareas repetitivas.  
-✔ Habla con tu equipo sobre cómo integrar seguridad sin frenar el trabajo.  
-✔ No es solo para programadores: DevOps y DevSecOps son prácticas de equipo.
-
----
-
-> “El software seguro no es un objetivo, es un hábito desde el principio.”
